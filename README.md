@@ -1,6 +1,6 @@
 # OT Field Notes
 
-**Working notes, research and findings on OT / industrial networking — from 25+ years on the plant floor, substation and trackside.**
+**Working notes, research and findings on OT / industrial networking — from 5+ years on the plant floor, substation and trackside.**
 
 This is my open notebook: short, practical write-ups on the things that actually come up in OT network design, commissioning and cybersecurity. Protocol boundaries, segmentation patterns, redundancy, gotchas, and the "why" behind decisions. Written to be useful to another engineer, not to be exhaustive.
 
